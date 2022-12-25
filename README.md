@@ -7,7 +7,7 @@
 3. [Interview Question](#interview-questions)
 4. [Learning](#learning)
 5. [Projects](#projects)
-6. [examles](#examples)
+6. [Examples](#examples)
 
 # Books
 
